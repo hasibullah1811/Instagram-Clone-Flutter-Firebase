@@ -1,4 +1,4 @@
-# social_share
+# Social Share - Full functioning Social Media App
 
 An Intagram Clone app built with Flutter and Firebase
 
@@ -14,6 +14,26 @@ An Intagram Clone app built with Flutter and Firebase
   <img src="https://lh3.googleusercontent.com/RX9QqY-4JKwuKiwvpWgsBREyiXx-Lcfl7vx_lil0yOzD1V4h0ZC-m81StFCYec_s0jc7Hb5u1gsbFi0X0FzznVVZoE85EKDCXVz3TfD5qxWKbXMRA4iRUR1CM5MeKwqwKBq1aPUyYYZOa_hFW0ilgO6rHj6N39UJGRbE3Tbgx1QSI7BkOPXKlk-zi-k7Gq7IrS8EwdZtrNaPTF5oTHTGHeszNe_-qepQduLkpEBcoVFrSNcfHzkw3GPsOo7PhdbnnnFJ3xDXmmEK7jyfntx6yfBx8YcNu-g1068CPgaK5k_Or1cXazjVGa0F3nBO8c-TVjyPKBQs0WX4X3Tl8gwE41f84bQqDpimyhQ-980pYvK_cctW3JT0Nx1TGji13RO0YnuJDWVcIsKDCmzqNTq0D7qnP9shBTeUMe8XjyEhyhtguc2GZllhmtzhWEOtZJUgnRHZKMmNNGuK1ZO86qnR2xfaJO8CbQf8YHOoNv_bxpTfG2Y0y8_5gjJSaGHkMBDWI2AQ7NtAzEJYVETrhxtgQQLiki318CegHP3vj9qNDg8YdaU9Davsu8cBFddGfDkkfGD8zWBhic1cmKMfB5mSCzi_De5F8NTwI-zfPu2k731Cyu_T2K25Mo2a7mSz3KlZZqZz0VkiCQ3EysKzwf0kfgo6l8YJi_KtZbb9DVMHgtPROHo1vy0YfzMB65x5fQ=w465-h828-no?authuser=0" width="250" />
 </p>
 
-## Main Features
+## Features
+- [x] Building APP Structure
+- [x] Firebase & Firestore Adding CRUD Functionality
+- [x] User Authentication & Social Login
+- [x] Validating Create account fields
+- [x] Searching for Users
+- [x] Uploading Post, Image Compression
+- [x] Getting User Location
+- [x] Editing User Profile
+- [x] Structuring Posts, Display posts, Post Count
+- [x] Creating User profile Page
+- [x] Liking & Unliking Posts
+- [x] Giving heartbeat Animation to Like
+- [x] Realtime Commenting on posts
+- [x] Activity Feed Notifications
+- [x] Follow & Unfollow users
+- [x] Building Timeline of User Posts
+- [ ] Cloud Firestore Triggers with Firebase functions
+- [ ] Cleaning up the code
+- [ ] Live Alerts with push notification
+
 
 
